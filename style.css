@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: #007bff; /* Cor azul */
+    color: white;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 1rem;
+}
+
+section {
+    padding: 2rem;
+}
+
+footer {
+    background-color: #333; /* Cor cinza escuro */
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+.fundo{
+    background-size: 100%;
+}
