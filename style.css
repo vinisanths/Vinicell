@@ -1,15 +1,21 @@
 body {
-    background-color: #4fb895;
-    color: #5e5e5e;
+    background-color: #80bc96;
+    color: #f1ebeb;
     font-family: sans-serif;
     margin: 0;
 }
 
 header {
-    background-color: #2c4d6d; /* Definir cor*/
+    background-color: #80bc96; /* Definir cor*/
     color: rgb(0, 0, 0);
     padding: 1rem 0;
     text-align: center;
+}
+header h1{
+    color: #37053b;
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+
 }
 img{
     width: 25%;
@@ -24,7 +30,7 @@ nav ul li {
     margin: 0 1rem;
 }
 nav ul li a{
-    color:aliceblue;
+    color:#37053b;
     text-decoration: none;
 }
 .link_servicos{
@@ -37,12 +43,11 @@ section {
 }
 
 footer {
-    background-color: #2c4d6d;
+    background-color: #80bc96;
     padding: 20px 0;
     text-align: center;
-    border-top: 1px solid #e7e7e7;
     position: absolute;
     width: 100%;
     font-size: larger;
-    color: beige;
+    color: #37053b;
 }
